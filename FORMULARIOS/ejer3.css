@@ -1,0 +1,29 @@
+body{
+    background-color: skyblue;
+    font-family: sans-serif;
+}
+
+.titulo{
+    align-content: right;
+    border-bottom-style: dashed;
+    border-color: blue;
+    letter-spacing: 10px;
+}
+
+h1{
+    text-align: right;
+}
+
+fieldset{
+    border-style: dashed;
+    border-color: blue;
+}
+
+legend{
+    border:1px solid blue;
+    background-color: blue;
+    color: white;
+    letter-spacing: 2px;
+    padding: 5px 10px;
+    font-weight: bold;
+}

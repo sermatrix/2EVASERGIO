@@ -1,0 +1,34 @@
+#wrapper{
+    width: 960px;
+}
+
+h1{
+   text-align: center; 
+}
+
+aside{
+   float: left;
+   width: 260px; 
+}
+
+main{
+    width: 700px;
+    float: right;
+}
+
+#contenido{
+    list-style-type: none;
+    padding: 0;
+}
+
+#contenido li{
+    float: left;
+    width: 220px;
+    padding: 5px;
+}
+
+
+
+
+
+

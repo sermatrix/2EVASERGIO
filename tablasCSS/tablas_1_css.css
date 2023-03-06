@@ -1,0 +1,9 @@
+.rojo{
+    border-collapse: collapse;
+    border: 2px solid red;
+}
+
+.verde{
+    border-collapse: separate;
+    border: 2px solid green;
+}

@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(220, 221, 221);
+}
+
+h1{
+    text-align: center;
+    color: #a1a1a1;
+}
+
+.azul{
+    background-color: #c6fffa;
+    color: #728f8c;
+    border: dotted;
+    border-color: #888888;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.rosa{
+    background-color: #ff99ff;
+    color: #9144b6;
+    border: 3px solid #a72e7f;
+    margin-left: auto;
+    margin-right: 50%;
+}
+
+.morado{
+    background-color: #643464;
+    border: 6px dotted #d0cccf;
+    border-color: #e73d95;
+    color: #9ca8ca;
+    margin-left: 50%;
+    margin-right: auto;
+}
+
+.cielo{
+    background-color: #e0edf3;
+    color: #527ee0;
+    border: 6px outset #b2b2ff;
+    margin-left: 50%;
+    margin-right: auto;
+}
+
+.autor{
+    text-align: center;
+}

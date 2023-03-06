@@ -1,0 +1,24 @@
+body{
+    background-color: #fce4c4;
+}
+
+h1, label{
+    color:#c0645c;
+    padding-left: 4px;
+}
+
+form{
+    color:#c0645c;
+    border-style: solid;
+}
+
+
+
+input[type=submit], input[type=reset]{
+    background-color: #a42c2c;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: white;
+    padding: 5px 10px;
+}
+

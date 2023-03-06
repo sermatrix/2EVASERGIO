@@ -1,0 +1,55 @@
+@media screen and (max-width: 600px) {
+    body{
+        float: left;
+        width: auto;
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+    h2{
+        text-decoration: underline;
+    }
+
+    #datos{
+        float: left;
+    }
+
+    main{
+        float: left;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1200px){
+    #datos{
+        float: left;
+        width: 30%;
+    }
+
+    main{
+        float: right;
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 1201px) {
+    ul{
+       list-style-type: none;
+        padding: 0;
+    }
+
+    #datos{
+        width: 33%;
+        float: left;
+    }
+
+    #formacion{
+        float: left;
+    }
+
+    #experiencia{
+        float: left;
+        margin-left: 15%;
+    }
+}
